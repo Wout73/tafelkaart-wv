@@ -1,0 +1,15 @@
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\bin\Debug\net10.0\opdracht tafeltjes.exe
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\bin\Debug\net10.0\opdracht tafeltjes.deps.json
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\bin\Debug\net10.0\opdracht tafeltjes.runtimeconfig.json
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\bin\Debug\net10.0\opdracht tafeltjes.dll
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\bin\Debug\net10.0\opdracht tafeltjes.pdb
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.AssemblyInfoInputs.cache
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.AssemblyInfo.cs
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.csproj.CoreCompileInputs.cache
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.dll
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\refint\opdracht tafeltjes.dll
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.pdb
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht tafeltjes.genruntimeconfig.cache
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\ref\opdracht tafeltjes.dll
+C:\Users\vulli\Documents\wout\c# school\opdracht tafeltjes\opdracht tafeltjes\obj\Debug\net10.0\opdracht.E3DC7E05.Up2Date
